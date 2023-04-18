@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rodri/Projetos/engenharia_machine_learning/kobe-shot-selection/mlruns/556106678312802415/5561b6f2234a478a91ae88c1ed1102b5/artifacts
+end_time: 1681695854044
+entry_point_name: ''
+experiment_id: '556106678312802415'
+lifecycle_stage: active
+run_id: 5561b6f2234a478a91ae88c1ed1102b5
+run_name: __default__
+run_uuid: 5561b6f2234a478a91ae88c1ed1102b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681695853770
+status: 4
+tags: []
+user_id: rodri

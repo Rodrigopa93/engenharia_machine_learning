@@ -1,0 +1,6 @@
+inicializador_pycaret: 123
+
+shot_type_filter: '3PT Field Goal'
+
+test_size: 0.2
+random_state: 42
